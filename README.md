@@ -19,8 +19,7 @@ This Streamlit application allows users to analyze financial reports of various 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/EstelleP972/analyseRapportFinancier.git
    ```
 
 2. **Install Dependencies**:
